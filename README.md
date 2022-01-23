@@ -1,4 +1,4 @@
 ### Hi, I'm Axel 👋
 Reach me at axel@borgmo.com
 
-![](https://github.com/axelborgmo/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelborgmo&layout=compact)](https://github.com/axelborgmo/github-readme-stats)
